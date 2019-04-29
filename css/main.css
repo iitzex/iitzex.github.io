@@ -1039,7 +1039,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
-  background: #f9f9ff;
+  background: #ededed;
   border-left: 2px solid #df003a;
 }
 .runs {
