@@ -211,6 +211,10 @@ td, th {
   font-size: 18px;
 }
 
+.fz-24 {
+  font-size: 24px;
+}
+
 .fz-30 {
   font-size: 30px;
 }
@@ -692,6 +696,14 @@ td, th {
   color: #fff;
 }
 
+.gray {
+  color: rgb(78, 78, 78);
+}
+
+.red{
+  color: #df003a;
+}
+
 .dark {
   color: #000;
 }
@@ -1040,9 +1052,9 @@ h1, h2, h3, h4, h5, h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #ededed;
-  border-left: 2px solid #df003a;
+  border-left: 5px solid #df003a;
 }
-.runs {
+.title {
   color: #fff;
   background: #e0003b;
 }
